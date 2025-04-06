@@ -17,7 +17,7 @@ Created for NSCC’s Electronic Systems Technician program and skills competitio
 
 1. Download the ZIP from GitHub or clone the repository:
    ```bash
-   git clone https://github.com/brian-kelly-nscc/ESTN_WaveShield.git  ```
+   git clone https://github.com/brian-kelly-nscc/ESTN_WaveShield.git
 
 2. Move the folder to your Arduino `libraries/` directory:
    ```

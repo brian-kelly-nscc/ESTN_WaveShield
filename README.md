@@ -9,8 +9,7 @@ Created for NSCC’s Electronic Systems Technician program and skills competitio
 
 - 📐 Three waveform types: **Sine**, **Triangle**, **Square**
 - ⚡ Uses standard PWM output (default: D9)
-- 💡 No input or LED dependencies — minimal and focused
-- 🧰 Designed for classroom and competition use
+- 🧰 Designed for the 2025 Nova Scotia Skills Competition at the NSCC Sydney Waterfront Campus
 
 ---
 
@@ -18,8 +17,7 @@ Created for NSCC’s Electronic Systems Technician program and skills competitio
 
 1. Download the ZIP from GitHub or clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/ESTN_WaveShield.git
-   ```
+   git clone https://github.com/brian-kelly-nscc/ESTN_WaveShield.git
 
 2. Move the folder to your Arduino `libraries/` directory:
    ```
@@ -63,7 +61,7 @@ ESTN_WaveShield wave(6);  // Use digital pin 6 instead
 
 ---
 
-## 🧪 Designed for Skills Competitions
+## 🧪 Designed for 2025 Nova Scotia Skills Competitions
 
 This library is part of the hands-on component for students:
 - 🔧 Used with custom shields in PCB assembly and soldering challenges
@@ -82,5 +80,4 @@ Feel free to use, share, and modify as needed for educational or personal projec
 ## 📬 Contact
 
 For more info or to contribute:
-- Instructor: [Your Name Here]
-- NSCC Marconi Campus, Electronic Systems Technician Program
+- NSCC Sydney Waterfront Campus, Electronic Systems Technician Program
